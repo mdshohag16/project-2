@@ -1,0 +1,138 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    background-color: #fff9f4;
+}
+
+nav{
+    background-color: #fff9f4;
+}
+.navbar-brand img {
+	width: 100%;
+	height: 50px;
+	padding-left: 10px;
+	margin-top: 10px;
+}
+.nav-item {
+	font-size: 30px;
+    margin-right: 20px;
+	margin-top: 5px;
+}
+.banar{
+    height: auto;
+    background-color: #fff9f4;
+}
+h1{
+	font-size: 20px;
+	font-weight: 700;
+	color: #3b3f6a;
+}
+
+.Nike {
+	font-size: 90px;
+	font-weight: 600;
+	margin-top: 5px;
+	color: #fa804c;
+	padding-left: 15px;
+}
+.Run {
+	font-size: 105px;
+	font-weight: 600;
+	margin-top: 0px;
+	color: #3b3f6a;
+	padding-left: 15px;
+}
+.Lorem {
+	font-size: 31px;
+	margin-top: 30px;
+	padding-left: 17px;
+}
+.Buy {
+	font-size: 30px;
+	margin-left: 17px;
+	margin-top: 5px;
+	border: none;
+	padding: 8px 20px;
+	border-radius: 15px;
+	background-color: #3746cb;
+	color: #ffff;
+}
+.img {
+	width: 100%;
+}
+.card-footer h1{
+    color: #fa804c;
+    font-weight: 700;
+	margin-top: 10px;
+}
+.Find {
+	border: 1px solid #ffff;
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+	border-radius: 10px;
+}
+.Find img {
+	width: 20%;
+}
+.Find h1 {
+	font-size: 34px;
+	font-weight: 700;
+	color: #3b3f6a;
+}
+.Find p{
+	font-size: 20px;
+}
+.Free {
+	border: 1px solid #ffff;
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+	border-radius: 10px;
+	margin-top: 30px;
+}
+.Free img{
+	width: 20%;
+}
+.Free h1{
+	font-size: 34px;
+	font-weight: 700;
+	color: #3b3f6a;
+}
+.Free p{
+	font-size: 20px;
+}
+.Seller{
+	border: 1px solid #ffff;
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+	border-radius: 10px;
+	margin-top: 30px;
+}
+.Seller img{
+	width: 20%;
+}
+.Seller h1{
+	font-size: 34px;
+	font-weight: 700;
+	color: #3b3f6a;
+}
+.Seller p{
+	font-size: 20px;
+}
+
+.XMLID {
+	width: 100%;
+	margin-top: 70px;
+}
+.footer{
+	background-color: #40eea5;
+}
+.Support i {
+	font-size: 25px;
+
+}
+.Support a {
+	text-decoration: none;
+	font-size: 20px;
+}
